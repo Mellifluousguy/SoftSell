@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  transition: .2s all ease-in-out;
+  font-family: 'Rubik', sans-serif;
+  user-select: none;
+  scroll-behavior: smooth;
+}
+
+body{
+  overflow-x: hidden;
+}
