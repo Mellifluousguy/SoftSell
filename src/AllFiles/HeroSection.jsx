@@ -26,7 +26,7 @@ const HeroSection = () => {
           viewport={{ once: false, amount: 0.7 }}
 
         >
-          <a href="#Contact" className='py-3 cursor-pointer px-8 text-lg rounded-md text-white mr-4 md:w-fit w-full bg-blue-500 mb-2'>Sell my Liceses</a>
+          <a href="#Contact"><button className='py-3 cursor-pointer px-8 text-lg rounded-md text-white mr-4 md:w-fit w-full bg-blue-500 mb-2'>Sell my Liceses</button></a>
           <button className='py-3 px-8 text-lg rounded-md text-gray-800 border md:w-fit w-full bg-gray-100 border-gray-400'>Learn More</button>
         </motion.div>
 
