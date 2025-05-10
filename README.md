@@ -23,24 +23,6 @@ SoftSell is a modern, responsive, and user-friendly front-end project for a mark
 
 ---
 
-## 📁 Folder Structure
-
-softsell/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── ContactForm.jsx
-│ │ ├── Footer.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Benefits.jsx
-│ │ ├── Testimonials.jsx
-│ │ └── ...
-│ ├── assets/
-│ ├── App.jsx
-│ └── main.jsx
-
----
-
 ## 🛠️ Tech Stack
 
 - **React.js**
@@ -49,7 +31,6 @@ softsell/
 - **Font Awesome**
 
 ---
--
 
 ## 📧 Contact
 
