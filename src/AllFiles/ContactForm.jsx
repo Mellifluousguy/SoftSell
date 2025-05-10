@@ -64,10 +64,10 @@ const ContactForm = () => {
                 initial="hidden"
                 whileInView={"show"}
                 viewport={{ once: true, amount: 0.7 }}
-                className='flex md:rounded-xl overflow-hidden flex-col items-center md:flex-row md:max-w-[65%] shadow-md mt-8'
+                className='flex md:rounded-xl overflow-hidden md:h-[80vh] flex-col items-center md:flex-row md:max-w-[65%] shadow-md mt-8'
             >
                 {/* Contact Information Block */}
-                <div className='md:w-[40%] bg-blue-500 py-18 gap-6 p-6 flex flex-col items-center text-white'>
+                <div className='md:w-[40%] bg-blue-500 h-full gap-6 p-6 flex flex-col items-center text-white'>
                     <h1 className='font-medium text-2xl'>Contact Information</h1>
                     <div className='flex items-center w-[80%] gap-4 text-left'>
                         <i className="fa-regular fa-envelope text-sm p-3 rounded-full bg-blue-400"></i>
