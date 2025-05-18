@@ -4,7 +4,7 @@ SoftSell is a modern, responsive, and user-friendly front-end project for a mark
 
 ## 🚀 Live Demo
 
-[🔗 Live Link (if deployed)](https://your-live-url.com)
+[🔗 SoftSell ]([https://your-live-url.com](https://softsell-5ydr.onrender.com))
 
 ---
 
